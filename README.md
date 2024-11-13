@@ -13,5 +13,3 @@ TOPICS ARE COVERED:
 9. Design and improve the User Experience,  
 10. iMessage Sticker Pack,  
 11. Bring the full iPadOS app to macOS 11 Big Sur using Mac Catalyst technology,  
-12. Learn what is Pseudocode and why it is important,  
-13. What is a Bundle and Extension in app development and how to use them, etc.
