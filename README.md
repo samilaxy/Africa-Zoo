@@ -11,5 +11,3 @@ TOPICS ARE COVERED:
 7. Swift programming concept: Generics,  
 8. Prototype the whole application with SwiftUI 2 framework,  
 9. Design and improve the User Experience,  
-12. Learn what is Pseudocode and why it is important,  
-13. What is a Bundle and Extension in app development and how to use them, etc.
