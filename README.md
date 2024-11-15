@@ -7,7 +7,7 @@ TOPICS ARE COVERED:
 3. MapKit Integration (basic and advanced approach with another cool feature),  
 4. Video Player (new SwiftUI 2 feature),  
 5. Launch Screen (new way),  
-6. wift programming concept: Extension,  
+6. Swift programming concept: Extension,  
 7. Swift programming concept: Generics,  
 8. Prototype the whole application with SwiftUI 2 framework,  
 9. Design and improve the User Experience,  
